@@ -3,4 +3,11 @@
 3. '/' returns 404. '/polls' redirects to '/polls/' and renders html (Hello, world...)
 4. They're files that contain instructions for the db on how to create the db tables based on the models.
     They're useful because you can change models without having to change the database yourself.
-5. 
+5. A view of your models and data. You can get models in the admin page by registering them in admin.py.
+6. "You're looking at question 38."
+"You're looking at the results of question 38."
+"You're voting on question 38."
+using a string returns a 404.
+This can be fixed by removing 'int:' from the 'question_id' paramter.
+7. 
+
