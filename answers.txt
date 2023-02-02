@@ -1,0 +1,4 @@
+1. https://github.com/m6rc/lab4.git
+2. The install worked successfully! Congratulations!
+3. '/' returns 404. '/polls' redirects to '/polls/' and renders html (Hello, world...)
+4. 
