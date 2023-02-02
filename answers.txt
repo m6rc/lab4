@@ -1,4 +1,6 @@
 1. https://github.com/m6rc/lab4.git
 2. The install worked successfully! Congratulations!
 3. '/' returns 404. '/polls' redirects to '/polls/' and renders html (Hello, world...)
-4. 
+4. They're files that contain instructions for the db on how to create the db tables based on the models.
+    They're useful because you can change models without having to change the database yourself.
+5. 
