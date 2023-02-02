@@ -11,4 +11,6 @@ using a string returns a 404.
 This can be fixed by removing 'int:' from the 'question_id' paramter.
 7. It can cause issues if you want to change the url for a page.
 You then need to find all the hardcoded urls and manully change them.
-8. 
+8. More readable code, easier to debug, documented, less boilerplate ...
+You should use generic views when the generic view provides what you want.
+If you want more control over your views then you can make your own.
